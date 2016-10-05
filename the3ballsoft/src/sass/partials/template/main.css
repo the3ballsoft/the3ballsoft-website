@@ -3,7 +3,7 @@
 * [Master Stylesheet]
 
   Theme Name : MaterialX
-  Version    :  1.0
+  Version    :  1.1
   Author     :  Bdinfosys
   Author URI :  http://themeforest.net/user/bdinfosys
 ====================================================
@@ -413,10 +413,8 @@ header.nav.hide-menu {
 }
 
 .primary-nav .brand-logo img {
-  /*height: 32px;*/
-  /*margin: 25px 5px 0;*/
-    height: 55px;
-    margin: 10px 5px 0;
+  height: 55px;
+  margin: 10px 5px 0;
 }
 
 .mobile-profile{
@@ -1885,185 +1883,3 @@ span.num {
 
 
 /* Add your CSS below */
-
-
-
-
-
-
-
-
-
-
-
-
-#switch {
-    background: #fff;
-    position: fixed;
-    display: none;
-    top: 20%;
-    z-index: 99999;
-    width: 224px;
-    margin-right: -300px;
-    font-family: inherit;
-    right: 0px;
-    box-shadow: 0px 0px 5px 0px rgba(51, 51, 51, 0.3);
-    border-radius: 2px;
-}
-
-#switch p {
-    margin-bottom: 10px;
-    padding-bottom: 6px;
-    padding-top: 10px;
-    border-bottom: #ededed 1px solid;
-    font-size: 14px;
-    text-transform: uppercase;
-}
-
-#switch ul li {
-    text-transform:uppercase;
-    margin-bottom:0;
-    font-size:12px;
-    display:inline-block;
-}
-
-#show {
-    z-index: 9999;
-    position: fixed;
-    right: 20px;
-    top: 20%;
-    background-color: #fff;
-}
-
-#show i {
-    font-size: 20px;
-}
-
-#switch ul li:first-child a {
-    margin-left: 0px;
-}
-
-#hide {
-    position: absolute;
-    background-color: #fff;
-    height: 30px;
-    width: 30px;
-    top: 7px;
-    right: 7px;
-    color: #777;
-    border-radius: 0 5px 0px 0;
-    text-align: center;
-    line-height: 30px;
-    cursor: pointer;
-}
-
-.wrap_pattern,
-.switchlayout {
-    margin-bottom:10px;
-}
-.wrap_pattern p {
-    margin-bottom: 5px!important;
-}
-.content-switcher {
-    padding: 16px;
-    overflow: hidden;
-}
-.content-switcher .m-btn {
-    padding: 5px 10px;
-    font-size: 12px;
-    min-width: 70px;
-}
-
-.button.small.color.switch {
-    font-size: 12px;
-    text-transform: none;
-    width: 40px;
-    margin: 5px 0px;
-    font-weight: normal;
-    font-family: 'Open Sans';
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3) !important;
-    letter-spacing: 0;
-}
-
-#hide img {
-    height:30px;
-    width:30px;
-    opacity:0.3;
-    filter: alpha(opacity=30);
-    -webkit-transition:all 0.3s ease 0s;
-            transition:all 0.3s ease 0s;
-}
-
-#hide img:hover {
-    opacity:0.7;
-    filter: alpha(opacity=70);
-}
-
-
-#switch .button {
-    cursor: pointer;
-    display: inline-block;
-    margin-left:5px;
-    margin-top:5px;
-    height: 15px;
-    padding: 5px;
-    width: 15px;
-}
-
-#switch p {
-    margin:5px 0;
-}
-
-.styled-select select {
-    background:#f5f5f5;
-    border:#ededed 1px solid;
-    width: 270px;
-    padding: 5px;
-    font-size: 13px;
-    line-height: 1;
-    outline:none;
-    border-radius: 3px;
-    height: 34px;
-    -webkit-appearance: none;
-    margin:10px 0;
-}
-
-.home-options {
-    position:relative;
-    width:100%;
-    margin-top:10px;
-    text-align:center;
-    margin:0 auto;
-}
-.home-options a{
-    background: #f5f5f5;
-    border: #ededed 1px solid;
-    font-size: 13px;
-    padding: 5px 15px;
-    line-height: 2;
-    outline: none;
-    text-align: center;
-    color: #000;
-    display: block;
-    margin-bottom: 10px;
-}
-.home-options a:hover{
-    background:#f1f1f1;
-}
-
-.menu-select {
-    margin-bottom: 7px;
-}
-
-.menu-select label {
-    font-weight: 500;
-    font-size: 12px !important;
-    color: #666;
-    margin-bottom: 0px;
-    text-transform: uppercase;
-}
-
-
-.menu-select [type="radio"]:not(:checked) + label:before {
-    border-color: #999;
-}

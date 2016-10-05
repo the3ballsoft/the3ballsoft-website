@@ -8,7 +8,7 @@ var uglify = require('gulp-uglify');
 var connect = require('gulp-connect');
 
 var paths = {
-  sass: ['./src/scss/**/**/*'],
+  sass: ['./src/sass/**/**/*'],
   js: ['./src/js/**/**/*.js'],
   vendor: ['./src/libs/**/*.js'],
 };

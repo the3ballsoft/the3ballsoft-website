@@ -4,18 +4,6 @@ var scrollDirection, $ = jQuery;
 // for scrolling to targeted sections
 
 (function($){
-
-  //Window window = activity.getWindow();
-
-  //// clear FLAG_TRANSLUCENT_STATUS flag:
-  //window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-
-  //// add FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS flag to the window
-  //window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
-
-  //// finally change the color
-  //window.setStatusBarColor(activity.getResources().getColor(R.color.my_statusbar_color));
-
 	$.fn.scrollingTo = function( opts ) {
 		var defaults = {
 			animationTime : 1000,
@@ -371,27 +359,6 @@ $(document).ready(function($){
 	// menuFun.mobile_intelligent_menu(); // Hide on Mobile Devices
 
 
-	$('#switch input').on('change', function(e){
-
-		var menuId = this.id;
-
-		if ( menuId === 'menu1' ) {
-
-			menuFun.fixed_menu();
-
-		} else if( menuId === 'menu2' ) {
-
-			menuFun.intelligent_menu();
-
-		} else {
-
-			menuFun.mobile_intelligent_menu();
-
-		}
-	});
-
-
-
 
 
 	// window scroll Sections scrolling
@@ -579,8 +546,8 @@ $(document).ready(function($){
 	if ( $mapWrapper.length > 0 ) {
 		var map = new GMaps({
 			div: '#map',
-			lat : 11.220315,
-			lng : -74.188498,
+			lat : 23.79473005386213,
+			lng : 90.41430473327637,
 			scrollwheel: false,
 			draggable: draggableOp,
 			zoom: 16,
@@ -589,11 +556,11 @@ $(document).ready(function($){
 		});
 
 		map.addMarker({
-			lat : 11.220315,
-			lng : -74.188498,
+			lat : 23.79473005386213,
+			lng : 90.41430473327637,
 			icon: 'static/images/marker-icon.png',
 			infoWindow: {
-				content: '<p>The3ballsoft Company</p>'
+				content: '<p>BD InfoSys Ltd, Dhaka, Bangladesh</p>'
 			}
 		});
 	}
@@ -814,4 +781,3 @@ $('#contactForm').on('submit', function(e){
 		}, 1000);
 	});
 });
-
