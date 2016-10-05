@@ -4,6 +4,7 @@ from __future__ import absolute_import, unicode_literals
 import re
 from django.shortcuts import render
 from django.views.generic import View
+from django.conf import settings
 
 from users.models import User
 from .models import Content
@@ -13,11 +14,30 @@ from .models import Content
 class HomeView(View):
     template_name='pages/home.html'
 
+
     def get(self, request, *args, **kwargs):
         ctx = {}
-        ctx['content'] = Content.objects.all()
+        obj = list(Content.objects.all())
+        types = []
+
+        def trans(ele):
+            return ele.content_es if settings.LANGUAGE_CODE == 'es-CO' else ele.content_en
+
+        for ele in obj:
+            if ele.type == 'text':
+                ctx[ele.code] = trans(ele)
+            else:
+                if ele.type not in types:
+                    ctx[ele.type] = []
+                    types.append(ele.type)
+
+                ctx[ele.type].append(trans(ele))
+
+
+        # print(ctx)
 
         return render(request, self.template_name, ctx)
+
 
 
 # class ProjectView(View):
@@ -27,8 +47,3 @@ class HomeView(View):
         # ctx = self.get_context_data(**kwargs)
         # ctx['project'] = Project.objects.all()
         # return render(request, self.template_name, ctx)
-
-
-
-
-
