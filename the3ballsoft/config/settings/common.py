@@ -262,15 +262,27 @@ CKEDITOR_UPLOAD_PATH = "uploads/ckeditor/"
 CKEDITOR_CONFIGS = {
     'default': {
         'toolbar': 'full',
+        'startupMode': 'source',
+        # codemiror opts
+        'matchTags': True,
+        'enableSearchTools': True,
+        'enableCodeFormatting': True,
+        'autoFormatOnStart': True,
+        'showFormatButton': True,
+        #end codemiror options
+        # 'toolbar_Custom': [
+            # ['SelectAll', '-', 'Copy', 'Paste']
+        # ],
         'extraPlugins': ','.join(
             [
                 # your extra plugins here
+                'codemirror', # download from here https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/releases/download/v1.14/CKEditor-CodeMirror-Plugin.zip and paste in env/lib/python3.5/sites-package/ckeditor/plugis/
                 'div',
                 'autolink',
                 'autoembed',
                 'embedsemantic',
                 'autogrow',
-                # 'devtools',
+                'devtools',
                 'widget',
                 'lineutils',
                 'clipboard',

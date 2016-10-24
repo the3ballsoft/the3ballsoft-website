@@ -13,7 +13,7 @@ var paths = {
   vendor: ['./src/libs/**/*.js'],
 };
 
-gulp.task('default', ['sass', 'js', 'vendor']);
+gulp.task('default', ['sass', 'js', 'vendor', 'fonts']);
 
 /*
   | --- SASS -----------------------------------------------
@@ -53,6 +53,17 @@ gulp.task('js', function(done) {
   .pipe(gulp.dest('./static/js/'))
   .pipe(connect.reload())
   .on('end', done);
+});
+
+
+/*
+  | --- FONTS -------------------------------------------------
+  */
+gulp.task('fonts', function(done) {
+  gulp.src(['./src/libs/materialize/font/**/**/*', ])
+    .pipe(gulp.dest('./static/font/'))
+    .pipe(connect.reload())
+    .on('end', done);
 });
 
 gulp.task('watch', function() {

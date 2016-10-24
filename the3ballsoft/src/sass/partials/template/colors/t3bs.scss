@@ -1,0 +1,107 @@
+.brand-text {
+  color: $t3bs !important;
+}
+
+.brand-text i {
+  color: $t3bs !important;
+}
+
+.brand-bg,
+.sweet-alert button {
+  background-color: $t3bs !important;
+}
+
+.waves-effect.waves-brand  {
+  background-color: rgba($t3bs, 0.66);
+}
+
+.p-overlay {
+  background-color: rgba($t3bs, 0.9);
+}
+
+
+.circle-loader .path {
+  stroke: $t3bs;
+}
+
+
+.side-nav  li.current a,
+.side-nav  li a:hover {
+  border-bottom-color: $t3bs;
+}
+
+.static-menu li i:hover,
+.static-menu li a:hover,
+.submenu-ul li a:hover,
+.home-title span,
+.about-subtitle,
+.person-about > a.btn-large,
+.about-social ul li a i,
+.skill-title,
+.skill-count,
+.single-widget ul li a,
+.single-post-content a,
+.share-post li a:hover,
+.com-title a,
+span.num {
+  color: $t3bs;
+}
+
+.singel-hr-inner,
+.hr-wrap,
+.hrc:after,
+.thumb-slides-container.owl-theme .owl-controls .owl-page.active span,
+.blog-inner .card-content a.right:hover,
+.blog-inner .card-content a.right:focus,
+.contact-form .submit-btn:hover,
+.contact-form .submit-btn:focus,
+a.tags,
+.blog-inner .card-content a.right:active {
+  background-color: $t3bs;
+}
+
+.contact-form .materialize-textarea:focus,
+.contact-form .input-box:focus {
+  border-color: $t3bs;
+  box-shadow: 0px 1px 0px $t3bs;
+}
+
+
+.single-post-content blockquote {
+  border-left: 5px solid $t3bs;
+}
+
+
+
+@-webkit-keyframes color {
+  0%   {stroke: $t3bs;}
+  20%  {stroke: $t3bs;}
+  25%  {stroke: $t3bs;}
+  45%  {stroke: $t3bs;}
+  50%  {stroke: $t3bs;}
+  70%  {stroke: $t3bs;}
+  75%  {stroke: $t3bs;}
+  95%  {stroke: $t3bs;}
+}
+
+@keyframes color {
+  0%   {stroke: $t3bs;}
+  20%  {stroke: $t3bs;}
+  25%  {stroke: $t3bs;}
+  45%  {stroke: $t3bs;}
+  50%  {stroke: $t3bs;}
+  70%  {stroke: $t3bs;}
+  75%  {stroke: $t3bs;}
+  95%  {stroke: $t3bs;}
+}
+
+
+/* Add your CSS below */
+
+
+
+
+.menu-select [type="radio"]:checked + label:after {
+  border-color: $t3bs;
+  background-color: $t3bs;
+}

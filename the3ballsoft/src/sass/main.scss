@@ -13,8 +13,8 @@
 
 //template
 @import "partials/template/normalize";
-/*@import "../font/font-awesome/css/font-awesome.min";*/
-/*@import "../libs/materialize/css/materialize.min";*/
+//@import "../font/font-awesome/css/font-awesome.min";
+@import "../libs/materialize/css/materialize.min";
 @import "partials/template/bootstrap";
 @import "partials/template/animate.min";
 @import "../libs/sweetalert/sweet-alert";
@@ -23,7 +23,7 @@
 @import "../libs/owl-carousel/owl.theme";
 @import "partials/template/main";
 @import "partials/template/responsive";
-@import "partials/template/colors/color1";
+@import "partials/template/colors/t3bs";
 
 // utilities
 @import "partials/utils";
