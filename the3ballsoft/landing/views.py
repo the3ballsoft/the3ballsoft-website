@@ -20,11 +20,13 @@ class HomeView(View):
         obj = list(Content.objects.all())
         types = []
 
+        # send content depending lenguage
         def trans(ele):
             return ele.content_es if settings.LANGUAGE_CODE == 'es-CO' else ele.content_en
 
+        # bind text directly or group by type
         for ele in obj:
-            if ele.type == 'text':
+            if ele.type == 'text' or ele.type == 'html':
                 ctx[ele.code] = trans(ele)
             else:
                 if ele.type not in types:
