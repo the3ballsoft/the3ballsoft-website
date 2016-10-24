@@ -1,0 +1,482 @@
+[
+{
+  "model": "landing.content",
+  "pk": 3,
+  "fields": {
+    "code": "SUNPOWER",
+    "type": "experience",
+    "content_es": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">Noviembre 2014 - Enero 2015</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"http://www.crm.spwr.biz/images/logo.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">CRM Sunpower\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>spwr.biz</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->",
+    "content_en": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">Noviembre 2014 - Enero 2015</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"http://www.crm.spwr.biz/images/logo.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">CRM Sunpower\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>spwr.biz</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 4,
+  "fields": {
+    "code": "UNIMAG",
+    "type": "education",
+    "content_es": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2016</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-unimag.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Ingenieria De Sistemas\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Universidad del Magdalena</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education end -->",
+    "content_en": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2016</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-unimag.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Ingenieria De Sistemas\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Universidad del Magdalena</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education end -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 5,
+  "fields": {
+    "code": "MONGODB",
+    "type": "education",
+    "content_es": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n\r\n      <div class=\"card-img-wrap\"><img alt=\"\" class=\"activator\" src=\"/static/images/grad-cap-mongodb.png\" /></div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">MongoDB for Node.js Developers\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>MongoDB University.</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- single education -->",
+    "content_en": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n\r\n      <div class=\"card-img-wrap\"><img alt=\"\" class=\"activator\" src=\"/static/images/grad-cap-mongodb.png\" /></div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">MongoDB for Node.js Developers\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>MongoDB University.</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- single education -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 7,
+  "fields": {
+    "code": "PLATZI-BACK",
+    "type": "education",
+    "content_es": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2015</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-platzi.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Backend Developer\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Platzi</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->",
+    "content_en": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2015</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-platzi.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Backend Developer\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Platzi</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 8,
+  "fields": {
+    "code": "APPSCO",
+    "type": "education",
+    "content_es": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-appsco.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Desarrollo web y movil con HTML5 y CSS3\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>apps.co</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->",
+    "content_en": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-appsco.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Desarrollo web y movil con HTML5 y CSS3\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>apps.co</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 9,
+  "fields": {
+    "code": "PLATZI-FROM",
+    "type": "education",
+    "content_es": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-platzi.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Frontend Developer\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Platzi</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->",
+    "content_en": "<!-- single education -->\r\n<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">2014</h2>\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/grad-cap-platzi.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Frontend Developer\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Platzi</p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single education -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 10,
+  "fields": {
+    "code": "CIPELICANOS",
+    "type": "experience",
+    "content_es": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/cipelicanos.jpg\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">CI Pelicanos\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>cipelicanos.biz</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->",
+    "content_en": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/cipelicanos.jpg\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">CI Pelicanos\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>cipelicanos.biz</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 11,
+  "fields": {
+    "code": "Atupuerta",
+    "type": "experience",
+    "content_es": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/Logotipo_atupuerta.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\"> Android Ios App\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Atuperta.com.co</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->",
+    "content_en": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/Logotipo_atupuerta.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\"> Android Ios App\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Atuperta.com.co</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 12,
+  "fields": {
+    "code": "RTA",
+    "type": "experience",
+    "content_es": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/RedTravel.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Red Travel Adventures\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>redtraveladventure.com</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->",
+    "content_en": "<!--experience -->\r\n<div class=\"col-sm-4 cold-xs-12 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <h2 class=\"left-align card-title-top\">January 2014 - Present</h2>\r\n      <div class=\"valign-wrapper card-img-wrap\" style=\"height: 220px;\">\r\n        <img class=\"activator\" src=\"/static/images/clients/RedTravel.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Red Travel Adventures\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>redtraveladventure.com</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!--end experience -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 13,
+  "fields": {
+    "code": "GENESIS",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t1.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Genesis Guerrero\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>UX UI Designer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t1.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Genesis Guerrero\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>UX UI Designer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 14,
+  "fields": {
+    "code": "JOSE",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t3.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Jose Echavez\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".2s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t3.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Jose Echavez\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 15,
+  "fields": {
+    "code": "ANDRES",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t2.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Andres Vezques\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box wow fadeInUpSmall\" data-wow-delay=\".4s\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t2.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Andres Vezques\r\n        <i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 16,
+  "fields": {
+    "code": "LETIZIA",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t4.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Letizia Toye<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t4.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Letizia Toye<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Front End Developer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 17,
+  "fields": {
+    "code": "ISMAEL",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t6.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Ismael Algo<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Designer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t6.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Ismael Algo<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Designer\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 18,
+  "fields": {
+    "code": "GANYA",
+    "type": "team",
+    "content_es": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t6.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Juan G. Arrieta<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Team Manager\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->",
+    "content_en": "<div class=\"col-sm-4 single-card-box\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/t6.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Juan G. Arrieta<i class=\"mdi-navigation-more-vert right\"></i></span>\r\n      <p>Team Manager\r\n      </p>\r\n    </div>\r\n  </div>\r\n</div> <!-- single team member -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 19,
+  "fields": {
+    "code": "SUBTITLE",
+    "type": "text",
+    "content_es": "DESARROLLO WEB Y M\u00d3VIL, SEGURIDAD Y CONTROL DE ACCESO",
+    "content_en": "DESARROLLO WEB Y M\u00d3VIL, SEGURIDAD Y CONTROL DE ACCESO"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 20,
+  "fields": {
+    "code": "TITLE",
+    "type": "text",
+    "content_es": "The3allSoft",
+    "content_en": "The3allSoft"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 21,
+  "fields": {
+    "code": "ABOUT",
+    "type": "text",
+    "content_es": "Acerca de",
+    "content_en": "About"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 22,
+  "fields": {
+    "code": "RESUME",
+    "type": "text",
+    "content_es": "Resumen",
+    "content_en": "Resume"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 23,
+  "fields": {
+    "code": "PORTAFOLIO",
+    "type": "text",
+    "content_es": "Portafolio",
+    "content_en": "Portafolio"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 24,
+  "fields": {
+    "code": "TEAM",
+    "type": "text",
+    "content_es": "Equipo",
+    "content_en": "Team"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 25,
+  "fields": {
+    "code": "TESTIMONIAL",
+    "type": "text",
+    "content_es": "Testimonios",
+    "content_en": "Testimonial"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 26,
+  "fields": {
+    "code": "BLOG",
+    "type": "text",
+    "content_es": "Blog",
+    "content_en": "Blog"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 27,
+  "fields": {
+    "code": "CONTACT",
+    "type": "text",
+    "content_es": "Contacto",
+    "content_en": "Contact"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 28,
+  "fields": {
+    "code": "CONTACT_US",
+    "type": "text",
+    "content_es": "Contactanos",
+    "content_en": "Contact us"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 29,
+  "fields": {
+    "code": "OUR_HISTORY",
+    "type": "text",
+    "content_es": "Nuestra Historia",
+    "content_en": "Our History"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 30,
+  "fields": {
+    "code": "HISTORY",
+    "type": "text",
+    "content_es": "Somos un grupo de desarrolladores de software de la ciudad de Santa Marta, Magdalena (Colombia). Egresados de la Universidad del magdalena. Apasionados por las nuevas tecnologias, imprimiendo en todos nuestros trabajos la modernidad y rapidez exigidas por el mercado actual.",
+    "content_en": "(translate) Somos un grupo de desarrolladores de software de la ciudad de Santa Marta, Magdalena (Colombia). Egresados de la Universidad del magdalena. Apasionados por las nuevas tecnologias, imprimiendo en todos nuestros trabajos la modernidad y rapidez exigidas por el mercado actual."
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 31,
+  "fields": {
+    "code": "GENERAL_INFORMATION",
+    "type": "text",
+    "content_es": "Informacion General",
+    "content_en": "General Information"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 33,
+  "fields": {
+    "code": "GENERAL_INFORMATION_HTML",
+    "type": "html",
+    "content_es": "<h5>\r\n  <span>Telefonos:</span>  4304026\r\n</h5>\r\n<h5>\r\n  <span>Celulares:</span> 3005623587, 3002321855 \r\n</h5>\r\n<h5>\r\n  <span>Email: </span> the3ballsoft@gmail.com\r\n</h5>\r\n<h5>\r\n  <span>Direccion:</span> Manzana 98 Casa 21 Ciudadela 19 Julio\r\n</h5>",
+    "content_en": "<h5>\r\n  <span>Phone:</span>  4304026\r\n</h5>\r\n<h5>\r\n  <span>Cellphones:</span> 3005623587, 3002321855 \r\n</h5>\r\n<h5>\r\n  <span>Email: </span> the3ballsoft@gmail.com\r\n</h5>\r\n<h5>\r\n  <span>Address:</span> Manzana 98 Casa 21 Ciudadela 19 Julio\r\n</h5>"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 34,
+  "fields": {
+    "code": "SKILLS",
+    "type": "text",
+    "content_es": "Habilidades",
+    "content_en": "Skills"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 35,
+  "fields": {
+    "code": "SKILLS_TEXT",
+    "type": "text",
+    "content_es": "Manejo de herramientas para desarrollo web y movil, lenguajes y tecnicas que aseguran\r\nun producto de calidad.",
+    "content_en": "(translate) Manejo de herramientas para desarrollo web y movil, lenguajes y tecnicas que aseguran\r\nun producto de calidad."
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 36,
+  "fields": {
+    "code": "EXPERIENCE_TITLE",
+    "type": "text",
+    "content_es": "Experiencia",
+    "content_en": "Experience"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 37,
+  "fields": {
+    "code": "EXPERIENCE_TEXT",
+    "type": "text",
+    "content_es": "Con mas de dos a\u00f1os en el mercado y gran cantidad de clientes, nos sentimos con la confianza\r\nde garantizar nuestros trabajos",
+    "content_en": "(translate) Con mas de dos a\u00f1os en el mercado y gran cantidad de clientes, nos sentimos con la confianza\r\nde garantizar nuestros trabajos"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 38,
+  "fields": {
+    "code": "EDUCATION_TITLE",
+    "type": "text",
+    "content_es": "Educacion",
+    "content_en": "Education"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 39,
+  "fields": {
+    "code": "EDUCATION_TEXT",
+    "type": "text",
+    "content_es": "Ingenieros de Sistemas, Cursos, Certificaciones",
+    "content_en": "(translate) Ingenieros de Sistemas, Cursos, Certificaciones"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 40,
+  "fields": {
+    "code": "PORTAFOLIO_MENU",
+    "type": "html",
+    "content_es": "<li class=\"active\"><a href=\"#\" data-target=\"*\">All</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-1\">Art</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-2\">Accessories</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-3\">Design</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-4\">Fashion</a>\r\n</li>",
+    "content_en": "<li class=\"active\"><a href=\"#\" data-target=\"*\">All</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-1\">Art</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-2\">Accessories</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-3\">Design</a>\r\n</li>\r\n<li><a href=\"#\" data-target=\".category-4\">Fashion</a>\r\n</li>"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 41,
+  "fields": {
+    "code": "DESIGN",
+    "type": "portafolios",
+    "content_es": "<!-- Single Portfolio-->\r\n<li class=\"single-port-item category-1 category-3\">\r\n  <a href=\"#portfolioModal\" class=\"waves-effect waves-block waves-light modal-trigger\" \r\n     data-image-source=\"http://placehold.it/650x350\" \r\n     data-title=\"Your awesome portfolio title\" \r\n     data-content=\"A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior.\" \r\n     data-demo-link=\"#\"> <!-- Portfolio pop-up content-->\r\n    <div class=\"protfolio-image\">\r\n      <img src=\"/static/images/portfolio/pf1.jpg\" alt=\"portfolio\"> <!-- portfolio thumbnail-->\r\n      <div class=\"protfolio-content waves-effect waves-block waves-light\">\r\n        <div class=\"protfolio-content__inner\">\r\n          <h2 class=\"p-title\">item name\r\n          </h2>\r\n        </div>\r\n      </div>\r\n      <div class=\"p-overlay\">\r\n      </div>\r\n    </div>\r\n  </a>\r\n</li>\r\n<!--/ single portfolio -->",
+    "content_en": "<!-- Single Portfolio-->\r\n<li class=\"single-port-item category-1 category-3\">\r\n  <a href=\"#portfolioModal\" class=\"waves-effect waves-block waves-light modal-trigger\" \r\n     data-image-source=\"http://placehold.it/650x350\" \r\n     data-title=\"Your awesome portfolio title\" \r\n     data-content=\"A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior.\" \r\n     data-demo-link=\"#\"> <!-- Portfolio pop-up content-->\r\n    <div class=\"protfolio-image\">\r\n      <img src=\"/static/images/portfolio/pf1.jpg\" alt=\"portfolio\"> <!-- portfolio thumbnail-->\r\n      <div class=\"protfolio-content waves-effect waves-block waves-light\">\r\n        <div class=\"protfolio-content__inner\">\r\n          <h2 class=\"p-title\">item name\r\n          </h2>\r\n        </div>\r\n      </div>\r\n      <div class=\"p-overlay\">\r\n      </div>\r\n    </div>\r\n  </a>\r\n</li>\r\n<!--/ single portfolio -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 42,
+  "fields": {
+    "code": "OUR_TEAM_TITLE",
+    "type": "text",
+    "content_es": "Nuestro Equipo",
+    "content_en": "Our Team"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 43,
+  "fields": {
+    "code": "OUR_TEAM_TEXT",
+    "type": "text",
+    "content_es": "Contamos con los mejores desarrolladores",
+    "content_en": "(tranlate) Contamos con los mejores desarrolladores"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 44,
+  "fields": {
+    "code": "TESTIMONIAL_TEXT",
+    "type": "text",
+    "content_es": "Lo que nuestros clientes dicen",
+    "content_en": "(translate) Lo que nuestros clientes dicen"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 45,
+  "fields": {
+    "code": "PELICANOS_TEXT",
+    "type": "testimonials",
+    "content_es": "<div class=\"col-sm-6 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/client5.png\" alt=\"\">\r\n        <p class=\"saying-about\">Amazing theme, amazing code and especially amazing support! I Really love your work.\r\n        </p>\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Jonh Smith -</span>\r\n      <a href=\"#\">CEO, Apple Inc</a>\r\n    </div>\r\n  </div>\r\n</div> \r\n<!-- ./single testimonial box -->",
+    "content_en": "<div class=\"col-sm-6 single-card-box wow fadeInUpSmall\" data-wow-duration=\".7s\">\r\n  <div class=\"card\">\r\n    <div class=\"card-image waves-effect waves-block waves-light\">\r\n      <div class=\"card-img-wrap\">\r\n        <img class=\"activator\" src=\"/static/images/client5.png\" alt=\"\">\r\n        <p class=\"saying-about\">Amazing theme, amazing code and especially amazing support! I Really love your work.\r\n        </p>\r\n      </div>\r\n    </div>\r\n    <div class=\"card-content\">\r\n      <span class=\"card-title activator brand-text\">Jonh Smith -</span>\r\n      <a href=\"#\">CEO, Apple Inc</a>\r\n    </div>\r\n  </div>\r\n</div> \r\n<!-- ./single testimonial box -->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 46,
+  "fields": {
+    "code": "BLOG_TEXT",
+    "type": "text",
+    "content_es": "A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.",
+    "content_en": "A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author."
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 47,
+  "fields": {
+    "code": "READ_MORE",
+    "type": "text",
+    "content_es": "Leer mas",
+    "content_en": "Read more"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 48,
+  "fields": {
+    "code": "SEE_MORE",
+    "type": "text",
+    "content_es": "Ver mas",
+    "content_en": "See more"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 49,
+  "fields": {
+    "code": "SKILLS_HTML",
+    "type": "html",
+    "content_es": "<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"100%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Django</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">80%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"60%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">JavaScript</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">60%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"85%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Laravel</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">85%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"65%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">HTML</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">65%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"60%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Servidores</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">80%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"70%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">CSS</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">70%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->",
+    "content_en": "<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"100%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Django</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">80%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"60%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">JavaScript</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">60%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"85%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Laravel</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">85%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"65%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">HTML</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">65%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"60%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">Servidores</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">80%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->\r\n<!-- single skill -->\r\n<div class=\"single-skill\">\r\n  <div class=\"after-li\">\r\n    <div class=\"singel-hr\">\r\n      <div class=\"singel-hr-inner\" data-height=\"70%\">\r\n        <div class=\"skill-visiable\">\r\n          <span class=\"skill-title\">CSS</span>\r\n          <div class=\"hr-wrap\">\r\n            <div class=\"hrc\">\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <span class=\"skill-count\">70%</span>\r\n    </div>\r\n  </div>\r\n</div>\r\n<!-- /single skill-->"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 50,
+  "fields": {
+    "code": "CONTACT_HTML",
+    "type": "html",
+    "content_es": "<p class=\"regular-text\">Manzana 98 Casa 21 La ciudadela Santa Marta Col.\r\n</p>\r\n<ul class=\"clearfix contact-info\">\r\n  <li><a href=\"tel:4304026\">4304026</a>\r\n  </li>\r\n  <li><a href=\"mail:the3ballsoft@gmail.com\">the3ballsoft@gmail.com</a>\r\n  </li>\r\n  <li><a href=\"/\">the3ballsoft.com</a>\r\n  </li>\r\n</ul>",
+    "content_en": "<p class=\"regular-text\">Manzana 98 Casa 21 La ciudadela Santa Marta Col.\r\n</p>\r\n<ul class=\"clearfix contact-info\">\r\n  <li><a href=\"tel:4304026\">4304026</a>\r\n  </li>\r\n  <li><a href=\"mail:the3ballsoft@gmail.com\">the3ballsoft@gmail.com</a>\r\n  </li>\r\n  <li><a href=\"/\">the3ballsoft.com</a>\r\n  </li>\r\n</ul>"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 51,
+  "fields": {
+    "code": "CONTACT_FORM_HTML",
+    "type": "html",
+    "content_es": "<form action=\"#\" id=\"contactForm\" novalidate>\r\n  <div class=\"input-field\">\r\n    <input id=\"contact_name\" type=\"text\" name=\"contactName\" class=\"validate input-box\">\r\n    <label for=\"contact_name\" class=\"input-label\">Nombre</label>\r\n  </div>\r\n  <div class=\"input-field\">\r\n    <input id=\"email\" type=\"email\" name=\"contactEmail\" class=\"validate input-box\">\r\n    <label for=\"email\" class=\"input-label\">Correo Electr\u00f3nico</label>\r\n  </div>\r\n  <div class=\"input-field\">\r\n    <input id=\"subject\" type=\"text\" name=\"contactSubject\" class=\"validate input-box\">\r\n    <label for=\"subject\" class=\"input-label\">Asunto</label>\r\n  </div>\r\n  <div class=\"input-field textarea-input\">\r\n    <textarea id=\"textarea1\" name=\"contactMessage\" class=\"validate materialize-textarea\" style=\"height: 22px;\"></textarea>\r\n    <label for=\"textarea1\" class=\"input-label\">Mensaje</label>\r\n  </div>\r\n  <div class=\"input-field submit-wrap clearfix\">\r\n    <button type=\"submit\" class=\"left waves-effect btn-flat brand-text submit-btn\">Enviar Mensaje\r\n    </button>\r\n    <div class=\"right form-loader-area\">\r\n      <svg class=\"circular size-20\" height=\"20\" width=\"20\">\r\n        <circle class=\"path\" cx=\"10\" cy=\"10\" r=\"7\" fill=\"none\" stroke-width=\"3\" stroke-miterlimit=\"10\" />\r\n      </svg>\r\n    </div>\r\n  </div>\r\n</form>",
+    "content_en": "<form action=\"#\" id=\"contactForm\" novalidate>\r\n  <div class=\"input-field\">\r\n    <input id=\"contact_name\" type=\"text\" name=\"contactName\" class=\"validate input-box\">\r\n    <label for=\"contact_name\" class=\"input-label\">Name</label>\r\n  </div>\r\n  <div class=\"input-field\">\r\n    <input id=\"email\" type=\"email\" name=\"contactEmail\" class=\"validate input-box\">\r\n    <label for=\"email\" class=\"input-label\">Email</label>\r\n  </div>\r\n  <div class=\"input-field\">\r\n    <input id=\"subject\" type=\"text\" name=\"contactSubject\" class=\"validate input-box\">\r\n    <label for=\"subject\" class=\"input-label\">Subject</label>\r\n  </div>\r\n  <div class=\"input-field textarea-input\">\r\n    <textarea id=\"textarea1\" name=\"contactMessage\" class=\"validate materialize-textarea\" style=\"height: 22px;\"></textarea>\r\n    <label for=\"textarea1\" class=\"input-label\">Message</label>\r\n  </div>\r\n  <div class=\"input-field submit-wrap clearfix\">\r\n    <button type=\"submit\" class=\"left waves-effect btn-flat brand-text submit-btn\">send message\r\n    </button>\r\n    <div class=\"right form-loader-area\">\r\n      <svg class=\"circular size-20\" height=\"20\" width=\"20\">\r\n        <circle class=\"path\" cx=\"10\" cy=\"10\" r=\"7\" fill=\"none\" stroke-width=\"3\" stroke-miterlimit=\"10\" />\r\n      </svg>\r\n    </div>\r\n  </div>\r\n</form>"
+  }
+},
+{
+  "model": "landing.content",
+  "pk": 52,
+  "fields": {
+    "code": "COPYRIGHT",
+    "type": "text",
+    "content_es": "The3ballsoft &copy; Todos los derechos reservados",
+    "content_en": "The3ballsoft &copy; All rights reserved"
+  }
+}
+]

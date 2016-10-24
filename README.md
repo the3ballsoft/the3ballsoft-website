@@ -32,6 +32,7 @@ Migrate, create a superuser, and run the server:
 ```bash
 python the3ballsoft/manage.py migrate
 python the3ballsoft/manage.py createsuperuser
+python the3ballsoft/manage.py loaddata landing 
 python the3ballsoft/manage.py runserver
 ```
 
