@@ -13,3 +13,5 @@ class Content(models.Model):
 
     def __str__(self):
         return self.code
+    class Meta:
+        ordering = ['type']
